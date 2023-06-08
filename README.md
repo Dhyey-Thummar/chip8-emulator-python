@@ -6,7 +6,9 @@ This is a simple Chip8 emulator written in python. It is based on the tutorial a
 
 To run the emulator, simply pass the path to the rom (.ch8 file) as an argument. For example:
 
-```python chip8.py <rom>```
+```console
+python chip8.py <rom>
+```
 
 ## Controls
 
